@@ -52,7 +52,7 @@ Each folder contains a self-contained module, its testbench, and clear comments.
 ## 👨‍💻 Credits
 
 - Code: [@Askinops](https://github.com/Askinops)  
-- Guidance & Documentation: **ChatGPT (Delta)**  
+- Guidance & Documentation: **ChatGPT **  
 - Book Reference: *Pong P. Chu — FPGA Prototyping by Verilog Examples*
 
 ---
